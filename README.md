@@ -1,6 +1,6 @@
 # React Labs for ITI
 
-## Lab 1: Create a React App
+## Lab 1: React Sign Up From
 
 <p align="center">
   <a href="./LabOne/my-app/">
@@ -8,7 +8,7 @@
   </a>
 </p>
 
-## Lab 2: Counter App with React and Vite
+## Lab 2: Counter App with React
 <p align="center">
   <a href="./LabTwo/counter-app/">
     <img src="./LabTwo/lab2-Output-Screenshot.png" width="600" />
