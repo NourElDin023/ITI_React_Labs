@@ -7,6 +7,7 @@
     <img src="./LabOne/Output-Screenshot" width="600" />
   </a>
 </p>
+
 ## Lab 2: Counter App with React and Vite
 <p align="center">
   <a href="./LabTwo/counter-app/">
