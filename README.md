@@ -4,7 +4,7 @@
 
 <p align="center">
   <a href="./LabOne/my-app/">
-    <img src="./LabOne/Output-Screenshot" width="600" />
+    <img src="./LabOne/Output-Screenshot.png" width="600" />
   </a>
 </p>
 
