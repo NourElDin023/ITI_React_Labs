@@ -19,10 +19,11 @@ const TodoDetails = () => {
     return (
         <div>
             {todo ? (
-                <>
-                    <h2>{todo.title}</h2>
-                    <p>{todo.description}</p>
-                </>
+                <div className="container card border mt-4 p-4">
+                    <h2 className="fw-bold   text-center">{todo.title}</h2>
+                    <hr />
+                    <p className="fs-5 px-4 card-body py-3">{todo.description}</p>
+                </div>
             ) : null}
         </div>
     );

@@ -2,7 +2,7 @@ import React from "react";
 
 const FiltrationTabs = ({ selectedFilter, setSelectedFilter }) => {
     return (
-        <div className="btn-group mb-4 w-100">
+        <div className="btn-group mb-4 w-75">
             <a
                 className={`btn btn-secondary ${selectedFilter === "all" ? "active" : ""
                     }`}
