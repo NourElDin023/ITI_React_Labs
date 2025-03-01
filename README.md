@@ -28,7 +28,7 @@
 
 <p align="center">
   <a href="./04-LabFour/todo-app-v1.2/">
-    <img src="./04-LabFour/lab4-Output-Screenshot-1.png" width="600" />
+    <img src="./04-LabFour/lab4-Output-Screenshot.png" width="600" />
     <br>
     <img src="./04-LabFour/lab4-Output-Screenshot-2.png" width="600" />
   </a>
