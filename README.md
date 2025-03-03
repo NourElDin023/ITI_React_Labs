@@ -33,3 +33,22 @@
     <img src="./04-LabFour/lab4-Output-Screenshot-2.png" width="600" />
   </a>
 </p>
+
+## Lab 5: Promo Shop with React
+
+<p align="center">
+  <a href="./05-LabFive/promo-shop/">
+    <img src="./05-LabFive/lab5-Output-Screenshot-large-1.png" width="600" />
+    <br>
+    <img src="./05-LabFive/lab5-Output-Screenshot-large-2.png" width="600" />
+    <br>
+    <img src="./05-LabFive/lab5-Output-Screenshot-large-3.png" width="600" />
+    <br>
+    <br>
+    <img src="./05-LabFive/lab5-Output-Screenshot-mobile-1.png" width="300" style="margin: 10px;" />
+    <img src="./05-LabFive/lab5-Output-Screenshot-mobile-2.png" width="300" style="margin: 10px;" />
+    <br>
+    <img src="./05-LabFive/lab5-Output-Screenshot-mobile-3.png" width="300" style="margin: 10px;" />
+    <img src="./05-LabFive/lab5-Output-Screenshot-mobile-4.png" width="300" style="margin: 10px;" />
+  </a>
+</p>
